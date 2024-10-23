@@ -1,5 +1,9 @@
 # dart_define changelog
 
+## 2.1.2
+
+- removes DCM dependencies 
+
 ## 2.1.1
 
 - fix: removes extra line break from json file
