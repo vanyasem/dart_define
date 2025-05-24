@@ -5,6 +5,7 @@
 - removes DCM dependencies 
 - updates `cli_completion` to ^0.5.0
 - updates `pub_updater` to ^0.5.0
+- bumps the minimum required Dart SDK version up to ^3.5.0
 
 ## 2.1.1
 
