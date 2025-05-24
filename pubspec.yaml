@@ -3,7 +3,6 @@ description: Utility for generating and populating dart-define config files
 version: 2.1.2
 homepage: https://mankeli.co
 repository: https://github.com/Mankeli-Software/dart_define
-publish_to: none
 
 environment:
   sdk: ^3.6.0
