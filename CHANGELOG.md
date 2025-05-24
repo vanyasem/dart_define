@@ -7,7 +7,8 @@
 - updates `cli_completion` to ^0.5.0
 - updates `pub_updater` to ^0.5.0
 - updates `cmd_plus` to ^1.3.4
-- updates `freezed` & `freezed_annotation` to ^3.0.0
+- migrates `freezed` & `freezed_annotation` to ^3.0.0
+- migrates `json_annotation` to ^4.9.0
 
 ## 2.1.1
 
